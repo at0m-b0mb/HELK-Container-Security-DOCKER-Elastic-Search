@@ -1,4 +1,4 @@
-# HELK-Container-Security-DOCKER-Elastic-Search
+# HELK-Container-Security-DOCKER-Elastic-Search-Deployment
 
 ## Project Overview
 
