@@ -10,7 +10,7 @@ The HELK-Container-Security-DOCKER-Elastic-Search project is designed to simplif
 
 - **Simplified Deployment**: Provide an easy-to-install and properly configured HELK environment for security professionals and analysts.
 - **Advanced Analytics**: Enable users to leverage the advanced analytics capabilities of the HELK stack for threat hunting, log analysis, and cybersecurity operations.
-- **Expedited Setup**: Expedite the process of setting up a threat hunting platform.
+- **Expedited Setup**: Expedite the process of setting up a threat-hunting platform.
 - **Community Contribution**: Make the HELK platform accessible to a wider community and contribute to the basics of threat hunting.
 
 ## Features
@@ -25,7 +25,7 @@ The HELK-Container-Security-DOCKER-Elastic-Search project is designed to simplif
 
 To get started with the HELK-Container-Security-DOCKER-Elastic-Search project, please follow these steps:
 
-1. **[Installation]([#installation](https://thehelk.com/installation.html))**
+1. **[Installation](https://thehelk.com/installation.html)**
 2. **[Configuration](https://thehelk.com/how-to/docker/export-images.html)**
 3. **[Usage](https://github.com/Cyb3rWard0g/HELK/blob/master/LICENSE)**
 4. **[Contributing](https://github.com/Cyb3rWard0g/HELK/graphs/contributors)**
